@@ -27,7 +27,7 @@ func main() {
 	// fmt.Println("a=", a, "b=", b, "c=", c)
 	// fmt.Printf("a=%v, b=%v, c=%v", a, b, c)
 
-	a := 10
+	// a := 10
 	// b := 20
 	// c := 30
 
